@@ -21,7 +21,7 @@ Issues are welcome for bug reports about the application itself. Feature request
 
 ## Third-party software
 
-see [THIRD-PARTY-LICENSES.txt] for a detailed list of all third party licenses SimpleDaw uses.
+see [THIRD-PARTY-LICENSES.txt](THIRD-PARTY-LICENSES.txt) for a detailed list of all third party licenses SimpleDaw uses.
 
 ## License
 
