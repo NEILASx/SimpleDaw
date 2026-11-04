@@ -23,10 +23,12 @@ Issues are welcome for bug reports about the application itself. Feature request
  
 **Timeline**
  
-- `Ctrl + E`: razor tool, cut clips
+- `Ctrl + E`: toggle razor tool, cut clips
 - Scroll wheel: zoom
 - `Ctrl + Scroll wheel`: move the view
-- Undo and redo: *(keys to be added)*
+- `Ctrl + Z` & `Ctrl + Y`: undo and redo respectively
+- `Ctrl + E` & selecting a track: duplicate the track selected
+- `Ctrl + C` & `Ctrl + V`: copy and paste a clip.
   
 **Knobs and sliders**
  
