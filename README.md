@@ -27,19 +27,23 @@ Issues are welcome for bug reports about the application itself. Feature request
 - Scroll wheel: zoom
 - `Ctrl + Scroll wheel`: move the view
 - Undo and redo: *(keys to be added)*
+  
 **Knobs and sliders**
  
 - Double-click: reset to default
 - Hold `Shift` while dragging: slower, finer adjustment
 - Scroll wheel: very precise adjustment
+
 **Context menus**
  
 - Right-click clips, knobs, sliders, or tracks for a context menu
 - Right-click items in the inspector panel to change icons or open the file in Explorer
+
 **Effects**
  
 - `F`: show or hide the effects panel
 - To add an effect, select a clip or track, then drag an effect from the inspector into the effects panel
+
 **Layout**
  
 - Drag the edge of the inspector panel to resize it
