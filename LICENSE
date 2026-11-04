@@ -1,0 +1,90 @@
+# SimpleDAW License
+
+Copyright © 2026 NEILASc.
+
+I made SimpleDAW to be free software, and I intend for every version released under this license to remain free to use.
+
+You do not need to pay me to obtain, install, use, or continue using SimpleDAW.
+
+## What You Can Do
+
+You may:
+
+* Use SimpleDAW for personal or commercial purposes.
+* Use SimpleDAW to create, record, process, and produce creative works.
+* Make copies of SimpleDAW for your own use.
+* Share SimpleDAW with other people, provided that you follow the restrictions below.
+
+## What You Cannot Do
+
+You may not:
+
+* Sell SimpleDAW or require payment specifically to obtain or use it without my permission.
+* Claim SimpleDAW, its original code, assets, or other original material as your own work.
+* Remove or alter the copyright, attribution, license, or other notices included with SimpleDAW.
+* Distribute modified or derivative versions of SimpleDAW without my permission.
+* Present an unofficial or modified version as an official release of SimpleDAW or as something I made or approved.
+
+You may not use SimpleDAW itself as a way of requiring someone else to pay for software that they are otherwise entitled to receive for free under this license.
+
+## Donations
+
+If you like SimpleDAW and want to support its development, donations are welcome.
+
+Donations are completely voluntary. You will never need to donate in order to use SimpleDAW, and donating does not give you additional rights under this license.
+
+## Works Made With SimpleDAW
+
+Your creative work is yours.
+
+Audio recordings, music, compositions, projects, presets, samples, and other creative works that you create or process using SimpleDAW are **not covered by this license**.
+
+Using SimpleDAW does not give me ownership of your work or any copyright interest in it.
+
+You remain free to modify, distribute, license, sell, publish, or otherwise use your own work.
+
+I will not claim ownership of your creative work simply because you used SimpleDAW to make it.
+
+## Source Code
+
+SimpleDAW is currently distributed as closed-source software.
+
+This license does not give you a right to obtain or access the source code.
+
+If I choose to release SimpleDAW's source code in the future, I will specify the license that applies to that source code when I release it.
+
+## A Promise About This License
+
+If you receive a copy of SimpleDAW under this license, the permissions granted to you for that copy are **irrevocable**, except where this license is violated or where applicable law requires otherwise.
+
+I will not later require you to pay for a copy that you received under this license, nor will I revoke the right to use that copy simply because I have changed my mind.
+
+If ownership of SimpleDAW is transferred to another person or organization, that transfer does not by itself revoke the rights already granted to copies distributed under this license.
+
+A future version of SimpleDAW may be released under different terms, but those terms will not retroactively change the rights granted to earlier versions distributed under this license.
+
+Nothing in a future version or future license changes who owns creative works made with SimpleDAW.
+
+## Disclaimer
+
+SimpleDAW is provided **"as is"**, without warranty of any kind, express or implied.
+
+To the extent permitted by law, I am not responsible for any damages, losses, or other liability arising from the use of SimpleDAW.
+
+## Third-Party Software
+
+SimpleDAW uses third-party software, including:
+
+* **minimp3** - licensed under CC0 1.0.
+* **PocketFFT** - licensed under the BSD 3-Clause License.
+* **sol2** - licensed under the MIT license.
+
+The original licenses and copyright notices for these components are included in `THIRD-PARTY-LICENSES.txt`.
+
+These components remain subject to their respective licenses. Nothing in this license changes the terms of those licenses.
+
+---
+
+Copyright © 2026 NEILASc.
+
+I made SimpleDAW free, and I intend for it to stay free.
